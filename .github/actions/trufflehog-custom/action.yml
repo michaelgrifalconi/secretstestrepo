@@ -1,7 +1,6 @@
 
 name: 'TruffleHog OSS'
 description: 'Scan Github Actions with TruffleHog'
-author: Truffle Security Co. <support@trufflesec.com>
 
 inputs:
   path:
